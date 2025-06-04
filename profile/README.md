@@ -56,7 +56,7 @@ Our mission is to provide an integrated digital platform that:
 Berikut langkah-langkah sederhana untuk menggunakan aplikasi **SahabatTani**:
 
 1. **Buka Aplikasi**  
-   Akses platform SahabatTani melalui browser di alamat URL yang disediakan.
+   Akses platform SahabatTani melalui browser di alamat URL berikut [SahabatTani](http://sahabattani.netlify.app).
 
 2. **Pilih Jenis Tanaman**  
    Pada halaman utama, pilih jenis tanaman yang ingin Anda deteksi penyakitnya (misalnya: padi, jagung, singkong, atau kentang).
