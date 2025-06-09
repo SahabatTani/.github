@@ -6,7 +6,7 @@
 <br>
 👋 Selamat datang di Website SahabatTani — tempat di mana inovasi, teknologi, dan semangat untuk memajukan pertanian bersatu! 
 
-Kami hadir dengan misi membantu para petani mengatasi tantangan dalam dunia pertanian, khususnya masalah penyakit tanaman seperti padi, jagung, singkong, dan kentang 🥔🌽🌿. Dengan pendekatan berbasis teknologi, kami berkomitmen menghadirkan solusi cerdas, praktis, dan efisien demi mendukung pertanian yang lebih sehat, produktif, dan berkelanjutan 🌱📱.
+Kami hadir dengan misi membantu para petani mengatasi tantangan dalam dunia pertanian, khususnya masalah penyakit tanaman seperti padi, jagung, singkong, dan mangga 🥭🌽🌿. Dengan pendekatan berbasis teknologi, kami berkomitmen menghadirkan solusi cerdas, praktis, dan efisien demi mendukung pertanian yang lebih sehat, produktif, dan berkelanjutan 🌱📱.
 
 <img src="https://github.com/Dentifycare/Dentifycare-Android/blob/master/Dentifycare%20-%20Mockup.png" alt="App Mockup"/>
 
@@ -59,7 +59,7 @@ Berikut langkah-langkah sederhana untuk menggunakan aplikasi **SahabatTani**:
    Akses platform SahabatTani melalui browser di alamat URL berikut [SahabatTani](http://sahabattani.netlify.app).
 
 2. **Pilih Jenis Tanaman**  
-   Pada halaman utama, pilih jenis tanaman yang ingin Anda deteksi penyakitnya (misalnya: padi, jagung, singkong, atau kentang).
+   Pada halaman utama, pilih jenis tanaman yang ingin Anda deteksi penyakitnya (misalnya: padi, jagung, singkong, atau mangga).
 
 3. **Unggah/Gunakan Kamera untuk Foto Daun**  
    Unggah gambar daun tanaman yang tampak sakit atau gunakan fitur kamera langsung untuk memotret daun secara real-time.
