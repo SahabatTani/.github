@@ -8,7 +8,7 @@
 
 Kami hadir dengan misi membantu para petani mengatasi tantangan dalam dunia pertanian, khususnya masalah penyakit tanaman seperti padi, jagung, singkong, dan mangga 🥭🌽🌿. Dengan pendekatan berbasis teknologi, kami berkomitmen menghadirkan solusi cerdas, praktis, dan efisien demi mendukung pertanian yang lebih sehat, produktif, dan berkelanjutan 🌱📱.
 
-<img src="https://github.com/Dentifycare/Dentifycare-Android/blob/master/Dentifycare%20-%20Mockup.png" alt="App Mockup"/>
+<img src="https://raw.githubusercontent.com/SahabatTani/.github/refs/heads/main/SahabatTani.png" alt="App Mockup"/>
 
 ---
 
